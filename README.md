@@ -1,4 +1,5 @@
-# CAROUSEL
+# CAROUSEL 
+# Using lazyRow
 
 # Captures
 
